@@ -6,6 +6,7 @@ void main() {
   int a = 3; //011
   int b = 3; //011
   int c = 2; //010
+  int d;
 
   print("A bitwise and b : ${a & b}"); //3
   print("A bitwise and c : ${a & c}"); //2
